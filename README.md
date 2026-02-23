@@ -90,6 +90,7 @@ print('VALID:', validate_sql(sql)); \
 print(execute_sql('data/statapp.sqlite', sql))"
 ```
 
+```
 Projet_Statapp/
   app/
     __init__.py
